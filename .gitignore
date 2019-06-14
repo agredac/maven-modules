@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+######################
+# Maven
+######################
+/log/
+/target/
+
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
